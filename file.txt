@@ -1,0 +1,6 @@
+  1  name    Surname     Age
+  2  Aren    Gevorgyan   15
+  3  Mushegh Esayan      16
+  4  esim    Avagyan     14
+  5      alo     aloyan      19
+  6  grno    Avagyan     22                              
