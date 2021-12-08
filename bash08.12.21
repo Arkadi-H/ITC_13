@@ -1,0 +1,12 @@
+Task 1: Find and prints used IPs in the network of all machines.
+status: done
+
+#ifconfig
+#ping broadcast Ip address / 192.168.1.255/
+#arp-a
+
+
+Task 2:Change the value of PATH variable permanently/only current shell.
+status: done
+
+#export PATH=$PATH:$HOME
