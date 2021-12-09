@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "User info $USER:"
-echo UID:$UID
-echo Home directory:$HOME
