@@ -1,23 +1,13 @@
 #!/bin/bash
 
-echo How many columns should a triangle consist of? write number?
+echo How many columns should a right triangle consist of? write number
 read num
-for((m=1;m<=num;m++))
+for ((i=0;i<num;i++))
 do
-    for((a=m;a<=num;a++))
+    for((j=0;j<=i;j++))
     do
-      echo -ne " ";
+    echo -n \*
     done
-
-    for((n=1; n<=m; n++))
-    do
-      echo -ne "*";
-    done
- 
-    for((i=1; i<m; i++))
-    do
-      echo -ne "*";
-    done
-    echo;
+    echo " "
+    
 done
-
