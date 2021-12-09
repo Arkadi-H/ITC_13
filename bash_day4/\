@@ -1,0 +1,10 @@
+#!/bin/bash
+
+space=5
+for((i=1; i<=space; i++))
+do
+	for((a=i; a<=space; a++))
+	do
+	echo -n " ";
+	done
+done
