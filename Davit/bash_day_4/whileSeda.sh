@@ -1,10 +1,10 @@
 #!/bin/bash
 
-let i=0
-let j=0
+i=0
 z=5
 while [ $i -lt $z ]
 do
+j=0
 echo $j
 echo $i
     while [ $j -le $i ]
